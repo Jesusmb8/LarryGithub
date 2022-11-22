@@ -2,4 +2,4 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Jesús Moreno**, Larry Plotter fan.
+**Jesús Moreno**, Larry Plotter fan & Git lover.
